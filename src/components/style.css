@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    font-family: 'Inter';
+}
+
+.card-header {
+    background-color: rgba(255,0,187,1);
+    color: white;
+    border: 0px;
+}
+
+.column {
+    border: 0px;
+}
+
+.title {
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 1.7rem;
+}

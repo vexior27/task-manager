@@ -1,0 +1,100 @@
+[
+    {
+        "task_type": "Todo",
+        "task_name": "Prepare design mockups",
+        "task_id": 1,
+        "task_opt": ["opt1", "opt2", "opt3"],
+        "task_tag": {
+            "tag1": {
+                "name": "Design",
+                "color": "green"
+            },
+            "tag2": {
+                "name": "Marketing",
+                "color": "orange"
+            }
+        },
+        "employes": {
+            "employee1": {
+                "name": "Jan",
+                "lastname": "Kowalski",
+                "img": "https://randomuser.me/api/portraits/men/1.jpg"
+            },
+            "employee2": {
+                "name": "Marek",
+                "lastname": "Kowalski",
+                "img": "https://randomuser.me/api/portraits/men/4.jpg"
+            }
+        }
+    },
+    {
+        "task_type": "Ongoing",
+        "task_name": "Develop homepage",
+        "task_id": 2,
+        "task_opt": ["opt1", "opt2", "opt3"],
+        "task_tag": {
+            "tag1": {
+                "name": "Development",
+                "color": "blue"
+            },
+            "tag2": {
+                "name": "Coding",
+                "color": "violet"
+            }
+        },
+        "employes": {
+            "employee1": {
+                "name": "Anna",
+                "lastname": "Nowak",
+                "img": "https://randomuser.me/api/portraits/men/10.jpg"
+            }
+        }
+    },
+    {
+        
+        "task_type": "Ongoing",
+        "task_name": "Develop sidebar",
+        "task_id": 2,
+        "task_opt": ["opt1", "opt2", "opt3"],
+        "task_tag": {
+            "tag1": {
+                "name": "Development",
+                "color": "blue"
+            },
+            "tag2": {
+                "name": "Coding",
+                "color": "violet"
+            },
+            "tag3": {
+                "name": "Design",
+                "color": "green"
+            }
+        },
+        "employes": {
+            "employee1": {
+                "name": "Anna",
+                "lastname": "Nowak",
+                "img": "https://randomuser.me/api/portraits/men/16.jpg"
+            }
+        }
+    },
+    {
+        "task_type": "Done",
+        "task_name": "Launch marketing campaign",
+        "task_id": 3,
+        "task_opt": ["opt1", "opt2", "opt3"],
+        "task_tag": {
+            "tag1": {
+                "name": "Marketing",
+                "color": "orange"
+            }
+        },
+        "employes": {
+            "employee1": {
+                "name": "Marek",
+                "lastname": "Zieliński",
+                "img": "https://randomuser.me/api/portraits/men/2.jpg"
+            }
+        }
+    }
+]
